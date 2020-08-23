@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## about
+this app is a sample view of ecommerce app where we can add new product into the list of products.and delete update as well.we 
+can sort products according to price.and add products into our cart.
 
 ## Available Scripts
 
